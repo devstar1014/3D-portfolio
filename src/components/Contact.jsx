@@ -89,7 +89,7 @@ const Contact = () => {
           <div className="flex flex-row items-center space-x-5 text-lg text-gray-300">
             <img src={email} className="w-1/6" />
             <div>
-              <p className="text-2xl">Takao Miyazaki</p>
+              <p className="text-2xl">James Victor</p>
               <a
                 onClick={() => copyToClipboard("mercurys1030@gmail.com")}
                 className="underline cursor-pointer"
